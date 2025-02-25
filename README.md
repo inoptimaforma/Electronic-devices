@@ -1,7 +1,5 @@
-
-
-
-
+In this code, we have 5 classes: main, device, smartphones, laptops, and tablets.
+The user will be able to choose something from these three devices. In order to make it easier for him to make a choice, the main characteristics of the device will be provided: price, warranty, quantity, size, etc. Next, the user will simply select what they need and how much they need, and an output will show them a check with the total amount and quantity.
 
 Menu:
 1. Show Devices
